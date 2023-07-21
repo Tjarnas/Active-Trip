@@ -1,0 +1,32 @@
+// FONTS
+
+@font-face {
+    font-family: "Aleo";
+    src: url(../assets/fonts/Aleo-VariableFont_wght.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Inter", sans-serif;
+    src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Josefin Sans", sans-serif;
+    src: url(../assets/fonts/JosefinSans-VariableFont_wght.ttf);
+    font-weight: 400, 700;
+}
+
+@font-face {
+    font-family: 'calibri';
+    src: url(../assets/fonts/calibri-regular.ttf);
+    font-weight: 400;
+}
+
+// VARIABLES
+
+$aleo: "aleo", serif;
+$inter: "inter", sans-serif;
+$josefin: "josefin Sans", sans-serif;
+$calibri: "calibri";
